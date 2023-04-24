@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body>
+<h1>Yahooo! you are registered'</h1>
+<h1>you are registered with the following credentials:</h1>
+
+<h1 th:text = "${username}"> </h1>
+<h1 th:text = "${mailId}"> </h1>
+
+</body>
+</html>
