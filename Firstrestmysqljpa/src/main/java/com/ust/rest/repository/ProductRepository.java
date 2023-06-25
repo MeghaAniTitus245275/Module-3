@@ -7,4 +7,6 @@ import com.ust.rest.resource.Product;
 @Repository
 public interface ProductRepository extends JpaRepository<Product, Long> {
 
+	
+
 }

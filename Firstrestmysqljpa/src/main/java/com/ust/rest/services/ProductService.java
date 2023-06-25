@@ -60,7 +60,7 @@ public Product add(Product product) {
 	Product productT = productRepository.save(product);
 	User user  = new User();
 	user.setUserId(5L);
-	user.setDateTime(System.currentTimeMillis()+"");
+	user.setDateTime(System.currentTimeMillis()+"777777777777");
 	User userT = userRepository.save(user);
 	return productT;
 	
@@ -86,21 +86,28 @@ public Product add(Product product) {
 //	productRepository.save(product);
 //	return true;}
 }
-public boolean validate(Product product)
-{		
-	if(product.getName().equals("acc"))
-	{
-		return true;
-	}else
-	{
-		return false;
-	}
+//public boolean validate(Product product)
+//{		
+//	if(product.getName().equals("acc"))
+//	{
+//		return true;
+//	}else
+//	{
+//		return false;
+//	}
+//}
+//}
+public Product updateProduct(Product product) {
+	 Optional<Product> optional = productRepository.findById(product.getProductId());
+	 Product tempProduct = optional.get();
+	 tempProduct.setName(product.getName());
+	 tempProduct.setDescription(product.getDescription());
+	 tempProduct.setPrice(product.getPrice());
+	 tempProduct.setQty(product.getQty());
+	 return productRepository.save(tempProduct);
+	//return productRepository.save(product);
+}
+public void deleteProduct(long productId) {
+	productRepository.deleteById(productId);
 }
 }
-//public Product updateProduct(Product product) {
-//	return repository.updateProduct(product);
-//}
-//public void deleteProduct(long productId) {
-//	 repository.delete(productId);
-//}
-//}

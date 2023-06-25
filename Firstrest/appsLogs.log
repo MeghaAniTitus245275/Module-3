@@ -1,0 +1,137 @@
+2023-04-24 12:01:51.866  INFO 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 11664 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:01:51.867  INFO 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:01:52.113  INFO 11664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:01:52.114  INFO 11664 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:01:52.115  INFO 11664 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:01:52.138  INFO 11664 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:01:52.138  INFO 11664 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 267 ms
+2023-04-24 12:01:52.263  INFO 11664 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:01:52.276  INFO 11664 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:01:52.284  INFO 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 0.478 seconds (JVM running for 72.312)
+2023-04-24 12:01:52.286  INFO 11664 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-04-24 12:01:52.287  INFO 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:01:52.287 ERROR 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:01:52.287  WARN 11664 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:02:00.314  INFO 11664 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:02:00.322  INFO 11664 --- [RMI TCP Connection(5)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:02:06.729  INFO 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 2720 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:02:06.731  INFO 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:02:06.823  INFO 2720 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 12:02:06.824  INFO 2720 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 12:02:08.375  INFO 2720 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:02:08.391  INFO 2720 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:02:08.392  INFO 2720 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:02:08.501  INFO 2720 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:02:08.501  INFO 2720 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1676 ms
+2023-04-24 12:02:09.149  INFO 2720 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:02:09.201  INFO 2720 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:02:09.215  INFO 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 3.137 seconds (JVM running for 4.093)
+2023-04-24 12:02:09.220  INFO 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:02:09.221 ERROR 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:02:09.222  WARN 2720 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:04:03.435  INFO 2720 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-04-24 12:04:03.454  INFO 2720 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:11:10.708  INFO 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 14152 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:11:10.709  INFO 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:11:11.078  INFO 14152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:11:11.080  INFO 14152 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:11:11.080  INFO 14152 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:11:11.102  INFO 14152 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:11:11.102  INFO 14152 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 389 ms
+2023-04-24 12:11:11.191 DEBUG 14152 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-04-24 12:11:11.215 DEBUG 14152 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2023-04-24 12:11:11.228 DEBUG 14152 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-04-24 12:11:11.234 DEBUG 14152 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-04-24 12:11:11.289  INFO 14152 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:11:11.306  INFO 14152 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:11:11.311  INFO 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 0.655 seconds (JVM running for 419.315)
+2023-04-24 12:11:11.315  INFO 14152 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-04-24 12:11:11.316  INFO 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:11:11.317 ERROR 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:11:11.317  WARN 14152 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:11:14.457  INFO 14152 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:11:14.467  INFO 14152 --- [RMI TCP Connection(9)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:11:24.895  INFO 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 13644 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:11:24.898  INFO 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:11:24.989  INFO 13644 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 12:11:24.990  INFO 13644 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 12:11:26.602  INFO 13644 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:11:26.620  INFO 13644 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:11:26.621  INFO 13644 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:11:26.737  INFO 13644 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:11:26.737  INFO 13644 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1746 ms
+2023-04-24 12:11:27.130 DEBUG 13644 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-04-24 12:11:27.285 DEBUG 13644 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2023-04-24 12:11:27.315 DEBUG 13644 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-04-24 12:11:27.332 DEBUG 13644 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-04-24 12:11:27.483  INFO 13644 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:11:27.544  INFO 13644 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:11:27.567  INFO 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 3.324 seconds (JVM running for 4.449)
+2023-04-24 12:11:27.573  INFO 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:11:27.573 ERROR 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:11:27.573  WARN 13644 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:14:40.906  INFO 13644 --- [RMI TCP Connection(7)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:14:40.921  INFO 13644 --- [RMI TCP Connection(7)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:14:48.880  INFO 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 12892 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:14:48.882  INFO 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:14:48.976  INFO 12892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 12:14:48.977  INFO 12892 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 12:14:50.465  INFO 12892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:14:50.484  INFO 12892 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:14:50.485  INFO 12892 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:14:50.589  INFO 12892 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:14:50.589  INFO 12892 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1611 ms
+2023-04-24 12:14:50.944 DEBUG 12892 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-04-24 12:14:51.104 DEBUG 12892 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2023-04-24 12:14:51.127 DEBUG 12892 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-04-24 12:14:51.150 DEBUG 12892 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-04-24 12:14:51.246  INFO 12892 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:14:51.311  INFO 12892 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:14:51.329  INFO 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 3.094 seconds (JVM running for 4.131)
+2023-04-24 12:14:51.333  INFO 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:14:51.333 ERROR 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:14:51.334  WARN 12892 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:15:14.406  INFO 12892 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:15:14.432  INFO 12892 --- [RMI TCP Connection(2)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:15:25.321  INFO 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 8276 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:15:25.323  INFO 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:15:25.406  INFO 8276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 12:15:25.406  INFO 8276 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 12:15:27.049  INFO 8276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:15:27.065  INFO 8276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:15:27.066  INFO 8276 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:15:27.159  INFO 8276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:15:27.160  INFO 8276 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1753 ms
+2023-04-24 12:15:27.586 DEBUG 8276 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-04-24 12:15:27.738 DEBUG 8276 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2023-04-24 12:15:27.769 DEBUG 8276 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-04-24 12:15:27.783 DEBUG 8276 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-04-24 12:15:27.883  INFO 8276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:15:27.941  INFO 8276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:15:27.960  INFO 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 3.34 seconds (JVM running for 4.36)
+2023-04-24 12:15:27.965  INFO 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:15:27.965 ERROR 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:15:27.966  WARN 8276 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:16:22.182  INFO 8276 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:16:22.197  INFO 8276 --- [RMI TCP Connection(4)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-04-24 12:16:46.128  INFO 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : Starting FirstrestApplication using Java 17.0.6 on 7fe4c55ea029530 with PID 11872 (D:\Module3\Firstrest\target\classes started by Administrator in D:\Module3\Firstrest)
+2023-04-24 12:16:46.131  INFO 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-04-24 12:16:46.228  INFO 11872 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-24 12:16:46.229  INFO 11872 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-24 12:16:47.830  INFO 11872 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8090 (http)
+2023-04-24 12:16:47.847  INFO 11872 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-24 12:16:47.848  INFO 11872 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-24 12:16:47.970  INFO 11872 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-24 12:16:47.970  INFO 11872 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1740 ms
+2023-04-24 12:16:48.344 DEBUG 11872 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-04-24 12:16:48.499 DEBUG 11872 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 7 mappings in 'requestMappingHandlerMapping'
+2023-04-24 12:16:48.525 DEBUG 11872 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-04-24 12:16:48.541 DEBUG 11872 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-04-24 12:16:48.657  INFO 11872 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-04-24 12:16:48.728  INFO 11872 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8090 (http) with context path ''
+2023-04-24 12:16:48.747  INFO 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : Started FirstrestApplication in 3.291 seconds (JVM running for 4.319)
+2023-04-24 12:16:48.754  INFO 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:16:48.754 ERROR 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : Application started successfully
+2023-04-24 12:16:48.755  WARN 11872 --- [restartedMain] com.ust.rest.FirstrestApplication        : MAKE IT COUNT
+2023-04-24 12:17:18.232  INFO 11872 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-04-24 12:17:18.248  INFO 11872 --- [RMI TCP Connection(4)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]

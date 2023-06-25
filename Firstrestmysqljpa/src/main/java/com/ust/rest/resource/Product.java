@@ -2,6 +2,7 @@ package com.ust.rest.resource;
 
 import java.math.BigDecimal;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -18,7 +19,8 @@ public class Product {
 	//auto is the default generation type ie when a stratergy is not specified jpa
 	//uses auto stratergy. when the underlined database is my sql generation type .auto means
 	//the jpa will create a hibernate sequence in the database for the generation of primary keys
-	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	//@Column(name="productId")
 	private long productId;
 	private String name;
 	private String description;
